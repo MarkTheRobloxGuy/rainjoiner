@@ -1,12 +1,36 @@
-# Free Open Source [bloxflip.com](https://bloxflip.com/) Rain Joiner
+## BloxFlip Rain Joiner
 
-It's completely free, as long as BloxFlip is open while the userscript is online, rains will be automatically joined.
+A free, open-source userscript designed to automate rain joining on BloxFlip.
 
-## Installation
-1: Install Tampermonkey or any similar userscript loaders on your respective browser. I use Tampermonkey on chrome, so I installed it at the [Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
-2: Create a new script on Tampermonkey or any other userscript loader and clear the placeholder script inside.
-3: Paste the userscript from autorain.js in this repo into the new script.
-4: Reload your browser and visit [BloxFlip](https://bloxflip.com)
-5: You're all done! You should be able to leave the tab open with the userscript, and it'll automatically join rains in the background.
+### Features
 
-If you need any help setting the script up, join our [Discord](https://discord.gg/predictors) at https://discord.gg/predictors . I hope you enjoy this script!
+*   **Automated Joining:** Automatically detects and joins rain events without manual input.
+*   **Lightweight:** Runs as a simple userscript with minimal resource impact.
+*   **Open Source:** The code is transparent and available for community review.
+
+### Installation
+
+Follow these steps to set up the script on your browser:
+
+1.  **Install a Userscript Manager**
+    Install Tampermonkey or a compatible userscript loader for your browser. You can find Tampermonkey on the [Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or the respective extension store for your browser.
+
+2.  **Create a New Script**
+    Open your userscript manager dashboard, select the option to create a new script, and delete any default placeholder text in the editor.
+
+3.  **Copy the Code**
+    Copy the entire contents of the `autorain.js` file from this repository.
+
+4.  **Saving**
+    Paste the code into your userscript manager editor and save it.
+
+5.  **Activation**
+    Navigate to [BloxFlip](https://bloxflip.com) and refresh the page. The script will now run automatically in the background.
+
+### Usage Notes
+
+For the script to function correctly, keep the BloxFlip tab open. The userscript will handle the detection and joining process automatically.
+
+### Support
+
+If you need help, join the community via [Discord](https://discord.gg/predictors).
