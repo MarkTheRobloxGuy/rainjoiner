@@ -31,6 +31,11 @@ Follow these steps to set up the script on your browser:
 
 For the script to function correctly, keep the BloxFlip tab open. The userscript will handle the detection and joining process automatically.
 
+### Known Issues
+
+1. **Not auto joining overtime**
+   Check if you have memory saver or bloxflip goes idle when Chrome is minimized, you can turn off memory saver in this [setting](chrome://settings/performance) `chrome://settings/performance` (put this link in your chrome url bar)
+
 ### Support
 
 If you need help, join the community via [Discord](https://discord.gg/predictors).
