@@ -35,6 +35,12 @@ For the script to function correctly, keep the BloxFlip tab open. The userscript
 
 1. **Not auto joining overtime**
    Check if you have memory saver or bloxflip goes idle when Chrome is minimized, you can turn off memory saver in this [setting](chrome://settings/performance) `chrome://settings/performance` (put this link in your chrome url bar)
+2. **When I'm doing something else it doesn't work**
+   Try leaving your browser unfocused, dont press the minimize button, but you can hover and full screen apps above.
+3. **How does this work on iPhone**
+   Use the [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) extension that lets you run userscripts on Safari.
+4. **How about Android? Does it work there**
+   You can install the [Lemur Browser](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) that lets you add extensions to the browser, therefor letting you install Tampermonkey for the auto rain joiner.
 
 ### Support
 
