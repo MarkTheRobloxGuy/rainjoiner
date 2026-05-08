@@ -1,6 +1,7 @@
 ## BloxFlip Rain Joiner
 
 A free, open-source userscript designed to automate rain joining on BloxFlip.
+https://predictor.best/
 
 ### Features
 
@@ -45,3 +46,4 @@ For the script to function correctly, keep the BloxFlip tab open. The userscript
 ### Support
 
 If you need help, join the community via [Discord](https://discord.gg/predictors).
+Our website is https://predictor.best/ please check it out!
